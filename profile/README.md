@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GameDevSelf/.github/main/assets/banner.png" alt="GameDevSelf Studio Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/GameDevSelf/.github/main/assets/banner-v2.png" alt="GameDevSelf Studio Banner" width="100%" />
 </p>
 
 Indie game studio and game jam lab under **DevSelf**.
