@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/GameDevSelf/.github/main/assets/banner.png" alt="GameDevSelf Studio Banner" width="100%" />
 </p>
 
-Indie game studio and game jam lab under **DevSelf**, building chaotic, Malaysian-flavoured games in **Godot 4**.
+Indie game studio and game jam lab under **DevSelf**.
 
 ## Games
 
